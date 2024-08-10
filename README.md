@@ -18,7 +18,8 @@ The **Color-Based Object Tracking GUI** is a Python-based application designed t
 
 Below is a screenshot of the application's main interface, showcasing the clean and intuitive design:
 
-![Tracking Interface](![image](https://github.com/user-attachments/assets/92f02f98-e726-4a0a-8aa7-5a054e5d93a1))
+![Tracking Interface] ![image](https://github.com/user-attachments/assets/dd8bca3a-7d9b-4938-aa6e-d0b483b1520c)
+
 
 ### Installation (For Developers and Advanced Users)
 
@@ -49,10 +50,12 @@ Follow these steps to set up the application on your local machine:
    
 2. **Install Dependencies**
    Install the necessary Python packages using pip:
+    ```bash
    pip install -r requirements.txt
    
-3. **Launching the Application:**
+4. **Launching the Application:**
    Start the application by running the main Python script:
+   ```bash
    python main.py
    
 ### Using the Pre-Built Application
@@ -65,9 +68,9 @@ To obtain the pre-built application:
 
 ### Roadmap
 We have a range of enhancements planned to further develop the application, including:
-    Support for Multiple Object Tracking: Expanding the application to track multiple objects with different colors simultaneously.
-    Integration of Machine Learning Models: Enhancing object detection accuracy by integrating advanced machine learning techniques.
-    Data Export Features: Adding capabilities to export tracking data for further analysis in external tools.
+   - Support for Multiple Object Tracking: Expanding the application to track multiple objects with different colors simultaneously.
+   - Integration of Machine Learning Models: Enhancing object detection accuracy by integrating advanced machine learning techniques.
+   - Data Export Features: Adding capabilities to export tracking data for further analysis in external tools.
 
 ### Contributing
 We welcome contributions from the community! If you have ideas for new features, improvements, or bug fixes, feel free to submit an issue or pull request. Please refer to our CONTRIBUTING.md for guidelines on how to contribute effectively to the project.
